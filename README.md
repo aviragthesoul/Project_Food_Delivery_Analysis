@@ -1,5 +1,5 @@
 
-![Food Delivery Dashboard Banner](Banner.png.avif)
+![Food Delivery Dashboard Banner](Banner.jpeg)
 
 
 
