@@ -1,0 +1,11 @@
+Delivery_ID,Order_ID,Item_ID,Res_ID,C_ID,Assigned_Executive,Contact_Executive,Status,Del_Time
+51,51,2,2,5,Amit Kumar,9200000001,Delivered,2025-08-17 13:15:00
+52,52,6,6,8,Rohit Singh,9200000002,Delivered,2025-08-17 14:30:00
+53,53,11,11,12,Vikas Sharma,9200000003,Delivered,2025-08-18 19:55:00
+54,54,17,17,20,Sandeep Yadav,9200000004,Delivered,2025-08-18 09:05:00
+55,55,20,20,25,Nitin Verma,9200000005,Failed,2025-08-19 20:50:00
+56,56,30,30,30,Deepak Rao,9200000006,Delivered,2025-08-19 14:00:00
+57,57,34,34,33,Manoj Das,9200000007,Delivered,2025-08-20 20:25:00
+58,58,40,40,40,Karan Mehta,9200000008,Delivered,2025-08-20 10:15:00
+59,59,50,50,45,Ravi Patel,9200000009,In Transit,2025-08-21 13:40:00
+60,60,4,4,3,Ajay Gupta,9200000010,In Transit,2025-08-21 19:10:00
