@@ -85,16 +85,16 @@ The project is organized into separate modules to make the code easier to unders
 
 ```text
 Project_Food_Delivery_Analysis/
-│
+│__food_delivery_csv_import_pack
+|__My_sql_Analysis as name Food_Delivery
 ├── Python/
-│   ├── 03_customer_analysis.py
-│   ├── 04_orders_analysis.py
-│   ├── 05_delivery_analysis.py
-│   └── 06_app.py
-│
-├── README.md
+│_ 01_connect_sql.py 
+  _02_cleaning_data.py
+  _03_customer_analysis.py
+  _04_orders_analysis.py
+  _05_delivery_analysis.py
 ├── requirements.txt
-└── .gitignore
+
 ```
 
 *Note: Adjust the folder and file names in this tree to match the final structure of your repository.*
