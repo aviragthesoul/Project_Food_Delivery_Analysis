@@ -1,3 +1,8 @@
+
+![Food Delivery Dashboard Banner](Banner.avif)
+
+
+
 # 🍔 Food Delivery Customer Analysis
 
 An end-to-end data analytics project that transforms food delivery data into meaningful business insights using **MySQL, Python, Pandas, and Streamlit**.
